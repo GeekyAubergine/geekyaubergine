@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there, I’m a software developer from Jersey, living in Portsmouth, working at [Radweb](https://radweb.co.uk) on [InventoryBase](https://inventorybase.co.uk) and other projects, primarily focusing on app development.
+
+[Go to my website](https://zoeaubert.me)
 
 <!--
 **GeekyAubergine/geekyaubergine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+Stats 🥳
+
+<!-- [![GeekyAubergine's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekyaubergine&show_icons=true&theme=light)](https://github.com/geekyaubergine) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekyaubergine&layout=compact&count=10)](https://github.com/geekyaubergine)
