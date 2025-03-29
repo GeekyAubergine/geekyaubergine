@@ -1,4 +1,4 @@
-Hi there, I’m a software developer from Jersey, living in Portsmouth, working at [Radweb](https://radweb.co.uk) on [InventoryBase](https://inventorybase.co.uk) and other projects, primarily focusing on app development.
+Hi there, I’m a software developer from Jersey, living in Portsmouth, working at my day job, primarily focusing on app development.
 
 [Go to my website](https://zoeaubert.me)
 
